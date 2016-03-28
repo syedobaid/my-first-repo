@@ -15,25 +15,18 @@ include 'db.php';
 </head>
 
 <body>
-	
-
-
-  <div class="container">
+<div class="container">
 <h1>Todo List</h1>
-
 <!--left panel  -->
 <div class="col-sm-4">
-<div class="panel panel-default">
-  <div class="panel-body">
-
-
-  <!-- Form Starting  -->
-<form role="form" action="add_new.php" method="GET">
-
-  <div class="form-group">
-  <label for="usr">Title:</label>
-  <input type="text" class="form-control" id="usr" name="title">
-</div>
+  <div class="panel panel-default">
+    <div class="panel-body">
+      <!-- Form Starting  -->
+      <form role="form" action="add_new.php" method="GET">
+      <div class="form-group">
+        <label for="usr">Title:</label>
+        <input type="text" class="form-control" id="usr" name="title">
+      </div>
 
   <div class="form-group">
   <label for="comment">Description:</label>

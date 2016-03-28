@@ -1,0 +1,30 @@
+[33mcommit 0fa106d01f5f78ccf544581185cf3c5f72036a9a[m
+Merge: a75ba8c 33805a4
+Author: Obaid Shah <obaidullah_786@live.com>
+Date:   Sat Mar 26 10:07:38 2016 -0700
+
+    Merge branch 'change'
+
+[33mcommit a75ba8c49d703ef84e4606838f7f67c8ea6d9dd3[m
+Author: Obaid Shah <obaidullah_786@live.com>
+Date:   Sat Mar 26 10:06:00 2016 -0700
+
+    fixed db in master
+
+[33mcommit 33805a4cb5d7b8b99c02e16e8bcea3986c75c799[m
+Author: Obaid Shah <obaidullah_786@live.com>
+Date:   Sat Mar 26 10:02:05 2016 -0700
+
+    this is change made in db removed all below code
+
+[33mcommit 5da898dcca629d42be15080373bda52562f1fe8e[m
+Author: Obaid Shah <obaidullah_786@live.com>
+Date:   Sat Mar 26 09:18:23 2016 -0700
+
+    add echo in db.php
+
+[33mcommit 11e1370839fa554d44764fe70f3a0930912628ae[m
+Author: Obaid Shah <obaidullah_786@live.com>
+Date:   Sat Mar 26 08:25:56 2016 -0700
+
+    installed core php
